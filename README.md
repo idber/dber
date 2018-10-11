@@ -1,7 +1,10 @@
 [![Build Status](https://travis-ci.org/hhyo/archer.svg?branch=master)](https://travis-ci.org/hhyo/archer)
 
 介绍
-2018.10.11 inception闭源，下载包和archer包备份
+2018.10.11 inception闭源，
+下载包inception https://github.com/idber/inception
+
+archer包备份
 
 ============
 项目基于archer，不定期更新，有问题请提交issues，[查看开发计划](https://github.com/hhyo/archer/projects/1)  
